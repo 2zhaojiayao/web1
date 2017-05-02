@@ -1,0 +1,17 @@
+.hot
+{
+	font-family:"微软雅黑";
+	font-size:16px;
+	color:#65a7d0;
+	font-weight:bold;
+}
+1.background-color
+2.background-image:url("images\bg.gif")
+3.background-repeat:repeat-x
+4.background-position:center center
+5.background
+6.块级元素：h1~h6    ul    li    dl    ol    table    form
+行内元素：p    images    a    img    input    select    font    b    i    strong
+7.块级    display-block
+8.display-none
+10.
